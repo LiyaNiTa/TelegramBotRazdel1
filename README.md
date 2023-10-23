@@ -2,7 +2,7 @@
 1. Название бота: t.me/NikolaTnewbot
 2. Команды:
    - привет: бот представляется
-     ![image](https://github.com/LiyaNiTa/TelegramBotRazdel1/assets/110767424/41a65b64-7801-41a3-a5e0-49afc693afb2)
+    <br/> ![image](https://github.com/LiyaNiTa/TelegramBotRazdel1/assets/110767424/41a65b64-7801-41a3-a5e0-49afc693afb2)
    - /help: бот дает подсказку по командам
      ![image](https://github.com/LiyaNiTa/TelegramBotRazdel1/assets/110767424/593ac39e-6f81-47db-9553-3f8113d74be0)
    - /python: выводит информацию по python
